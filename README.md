@@ -8,4 +8,3 @@
 
 - [Agent Skills](https://agentskills.io/home) - 仕様の公式サイト
 - [Specification](https://agentskills.io/specification) - フォーマット仕様書
-- [サンプルスキル](https://github.com/anthropics/skills)
