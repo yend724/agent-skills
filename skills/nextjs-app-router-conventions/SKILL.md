@@ -2,8 +2,6 @@
 name: nextjs-app-router-conventions
 description: Next.js App Router conventions covering file-based routing, caching strategies, Server Actions, Metadata API, and framework-specific patterns. Auto-triggers when working within Next.js App Router projects (app/ directory, next.config, route handlers). Covers file-based routing, caching, Server Actions, Metadata API, and framework-specific patterns.
 paths: "src/**/*.tsx, src/**/*.ts, proxy.ts, next.config.*"
-metadata:
-  author: yend724
 ---
 
 # Next.js App Router Conventions

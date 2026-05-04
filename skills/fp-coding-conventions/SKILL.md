@@ -2,8 +2,6 @@
 name: fp-coding-conventions
 description: Functional programming conventions for TypeScript logic layers. Auto-triggers when writing utilities, services, domain logic, or data transformation logic to ensure pure functions, immutability, and proper side-effect isolation.
 paths: "*.ts"
-metadata:
-  author: yend724
 ---
 
 # Functional Programming Conventions

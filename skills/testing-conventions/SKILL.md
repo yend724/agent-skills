@@ -2,8 +2,6 @@
 name: testing-conventions
 description: Testing conventions covering unit tests, component tests, and E2E tests. Auto-triggers when writing or modifying test files. Uses Vitest for unit/component tests and Playwright for E2E tests.
 paths: "*.test.ts, *.test.tsx, *.spec.ts, *.spec.tsx, e2e/**/*"
-metadata:
-  author: yend724
 ---
 
 # Testing Conventions

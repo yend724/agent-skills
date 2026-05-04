@@ -2,8 +2,6 @@
 name: react-component-conventions
 description: React component design conventions focusing on Server/Client component boundaries, composition patterns, and data flow. Auto-triggers when writing or modifying React components to ensure correct RSC patterns and optimal component architecture.
 paths: "*.tsx, *.jsx, *.ts, *.js"
-metadata:
-  author: yend724
 ---
 
 # React Component Design Conventions

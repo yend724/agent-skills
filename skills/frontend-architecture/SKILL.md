@@ -2,8 +2,6 @@
 name: frontend-architecture
 description: Frontend architecture conventions based on Feature-Sliced Design (simplified). Auto-triggers when creating new files, directories, or organizing project structure. Defines rules for feature-based code organization, module boundaries, dependency direction, and public API design.
 paths: "src/**/*"
-metadata:
-  author: yend724
 ---
 
 # Frontend Architecture
