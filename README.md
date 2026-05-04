@@ -1,10 +1,20 @@
 # Agent Skills
 
-[yend724](https://github.com/yend724) が公開する Agent Skills のリポジトリ。
+English | [日本語](./README.ja.md)
 
-スキルは [Agent Skills](https://agentskills.io/home) のオープンフォーマットに準拠しており、Claude Code, VS Code (GitHub Copilot), Cursor, Gemini CLI, OpenAI Codex など対応エージェントで利用できる。
+This repository contains Agent Skills published by [yend724](https://github.com/yend724).
 
-## 参考
+The skills follow the open [Agent Skills](https://agentskills.io/home) format and can be used with compatible agents such as Claude Code, VS Code with GitHub Copilot, Cursor, Gemini CLI, and OpenAI Codex.
 
-- [Agent Skills](https://agentskills.io/home) - 仕様の公式サイト
-- [Specification](https://agentskills.io/specification) - フォーマット仕様書
+## Install
+
+You can add skills from this repository with `npx skills add`.
+
+```bash
+npx skills add yend724/agent-skills
+```
+
+## References
+
+- [Agent Skills](https://agentskills.io/home) - Official website
+- [Specification](https://agentskills.io/specification) - Format specification
